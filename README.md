@@ -106,7 +106,7 @@ Potential improvements for this project:
 
 ## Author
 
-**Ritvík Sharma** (ritvikvr)
+**Ritvík** (ritvikvr)
 
 ## License
 
